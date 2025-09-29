@@ -7,10 +7,16 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 8px;
 }
+.blue {
+  padding: 8px;
+  margin: 8px;
 
+}
 .title {
   background: #e3f4ff;
+  font-size: 16px;
 }
 
 .content {
@@ -19,9 +25,15 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  text-align: center;
+  
+
+
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  
+  
 }
